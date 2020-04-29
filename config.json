@@ -1,5 +1,6 @@
 {
-	"token": "",
+	"token": "***",
+	"group_id": "***",
 	"forwardMessage": true,
 
 	"triggers": {
